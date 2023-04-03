@@ -10,7 +10,7 @@ public class ListaDoblementeEnlazada {
         milista.encuentraEimprime(5);
 
     }
-    public class Nodo {
+    public static class Nodo {
         public int dato;
         public Nodo anterior;
         public Nodo siguiente;
